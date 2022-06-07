@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">I'm a designer who loves to code his design</h3>
 
-<div align="center"><img align="center" alt="Coding" width="400" src="https://www.worldbook.com/images/WBBlog_KidsCoding.jpg"></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriman01&label=Profile%20views&color=0e75b6&style=flat" alt="sriman01" /> </p>
+<div align="center"><img align="center" alt="Coding" width="400" src=></div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tilltonystark&label=Profile%20views&color=0e75b6&style=flat" alt="sriman01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriman01" alt="sriman01" /></a> </p>
 
