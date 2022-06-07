@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">I'm a designer who loves to code his design</h3>
-<img src="https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif">
+<img align="centre" src="https://raw.githubusercontent.com/vivekweb2013/vivekweb2013/main/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tilltonystark&label=Profile%20views&color=0e75b6&style=flat" alt="tilltonystark" /> </p>
 
