@@ -2,7 +2,7 @@
 <h3 align="center">I'm a designer who loves to code his design</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tilltonystark&label=Profile%20views&color=0e75b6&style=flat" alt="sriman01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriman01" alt="sriman01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tilltonystark" alt="tilltonystark" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
